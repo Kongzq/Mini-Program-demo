@@ -3,5 +3,4 @@
 
 
 
-预览：
 ![gif](https://github.com/Kongzq/Mini-Program-demo/blob/master/GIF.gif)
