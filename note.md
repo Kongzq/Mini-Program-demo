@@ -1,16 +1,16 @@
-µ×²¿tabBarµÄÉèÖÃ¿´app.json
+åº•éƒ¨tabBarçš„è®¾ç½®çœ‹app.json
 
-ĞÇĞÇÆÀ·Ö¿´stars-template£¬ÆäÖĞµÄÊı¾İÊÇÔÚMovie.js»ñÈ¡²¢ÓÉmovie.wxml´«µİ¸ømovie-list-template,È»ºó´«µİ¸ømovie-template,´«µİ¸østars-template
+æ˜Ÿæ˜Ÿè¯„åˆ†çœ‹stars-templateï¼Œå…¶ä¸­çš„æ•°æ®æ˜¯åœ¨Movie.jsè·å–å¹¶ç”±movie.wxmlä¼ é€’ç»™movie-list-template,ç„¶åä¼ é€’ç»™movie-template,ä¼ é€’ç»™stars-template
 
-µã»÷µ×²¿tabBarµÄ¡°µçÓ°¡±Ò³È»ºóµã»÷¡°¸ü¶à¡±Ìø×ªÒ³Ãæ¿´movie.jsµÄonMoreTap£¬url´«ÈëµÄcategory=" + category ÊÇÎªÁËÇø·Ö ¡°¸ü¶à¡±Ò³ÃæÒª¼ÓÔØÄÄÒ»·½ÃæµÄÊı¾İ
+ç‚¹å‡»åº•éƒ¨tabBarçš„â€œç”µå½±â€é¡µç„¶åç‚¹å‡»â€œæ›´å¤šâ€è·³è½¬é¡µé¢çœ‹movie.jsçš„onMoreTapï¼Œurlä¼ å…¥çš„category=" + category æ˜¯ä¸ºäº†åŒºåˆ† â€œæ›´å¤šâ€é¡µé¢è¦åŠ è½½å“ªä¸€æ–¹é¢çš„æ•°æ®
 
-ÉÏ»¬¼ÓÔØ¸ü¶àÊı¾İ¿´more-movie.js£¬ÓÃµÄÊÇonReachBottom£¬À´¼àÌıÒ³ÃæÉÏ»¬µ½µ×£¬¿´ÎÄµµµÄ¡°×¢²áÒ³Ãæ¡±£¬Ò»¿ªÊ¼ÀÏÊ¦ÓÃµÄÊÇscroll-view×é¼ş£¬µ«ºóÀ´¸Ä°æÁË£¬ ÔÚ¹ö¶¯ scroll-view Ê±»á×èÖ¹Ò³Ãæ»Øµ¯£¬ËùÒÔÔÚ scroll-view ÖĞ¹ö¶¯ÎŞ·¨´¥·¢ onPullDownRefresh
+ä¸Šæ»‘åŠ è½½æ›´å¤šæ•°æ®çœ‹more-movie.jsï¼Œç”¨çš„æ˜¯onReachBottomï¼Œæ¥ç›‘å¬é¡µé¢ä¸Šæ»‘åˆ°åº•ï¼Œçœ‹æ–‡æ¡£çš„â€œæ³¨å†Œé¡µé¢â€ï¼Œä¸€å¼€å§‹ç”¨çš„æ˜¯scroll-viewç»„ä»¶ï¼Œä½†åæ¥æ”¹ç‰ˆäº†ï¼Œ åœ¨æ»šåŠ¨ scroll-view æ—¶ä¼šé˜»æ­¢é¡µé¢å›å¼¹ï¼Œæ‰€ä»¥åœ¨ scroll-view ä¸­æ»šåŠ¨æ— æ³•è§¦å‘ onPullDownRefresh
 
-ÏÂÀ­Ë¢ĞÂ¿´more-movie.jsonºÍmore-movie.jsµÄ onPullDownRefresh
+ä¸‹æ‹‰åˆ·æ–°çœ‹more-movie.jsonå’Œmore-movie.jsçš„ onPullDownRefresh
 
-¡°µçÓ°¡±Ò³ÃæµÄËÑË÷²¿·Ö¿´movie.wxml,movie.js
+â€œç”µå½±â€é¡µé¢çš„æœç´¢éƒ¨åˆ†çœ‹movie.wxml,movie.js
 
-µçÓ°ÏêÇéÒ³¿´ movie.jsµÄonMovieTapºÍmovie-detailÎÄ¼ş¼Ğ
+ç”µå½±è¯¦æƒ…é¡µçœ‹ movie.jsçš„onMovieTapå’Œmovie-detailæ–‡ä»¶å¤¹
 
-ÊÕ²ØÎÄÕÂ¹¦ÄÜºÍÒôÀÖ²¥·Å¿´post-detailÎÄ¼ş¼Ğ
+æ”¶è—æ–‡ç« åŠŸèƒ½å’ŒéŸ³ä¹æ’­æ”¾çœ‹post-detailæ–‡ä»¶å¤¹
 
