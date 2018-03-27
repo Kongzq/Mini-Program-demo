@@ -3,4 +3,4 @@
 
 描述：调用豆瓣api获取电影数据，电影页采用3层嵌套template
 
-![gif](https://github.com/Kongzq/Mini-Program-demo/blob/master/GIF.gif)
+![预览](https://github.com/Kongzq/Mini-Program-demo/blob/master/GIF.gif)
